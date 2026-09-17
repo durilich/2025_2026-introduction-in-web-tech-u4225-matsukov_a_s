@@ -1,6 +1,10 @@
 # Курсовая: сайт о Cristiano Ronaldo
 
-Обновлённая простая версия (MkDocs Material).
+Простая версия на MkDocs Material.
+
+## Онлайн (GitHub Pages)
+
+https://durilich.github.io/2025_2026-introduction-in-web-tech-u4225-matsukov_a_s/
 
 ## Страницы
 
@@ -9,17 +13,13 @@
 - Проекты
 - Контакты
 
-Фото: `docs/images/ronaldo-*.jpg`
-
-## Запуск
+## Локальный запуск
 
 ```bash
 cd kursovaya
 pip install -r requirements.txt
 mkdocs serve -a 127.0.0.1:8001
 ```
-
-Открыть: http://127.0.0.1:8001
 
 ## Сборка
 

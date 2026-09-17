@@ -1,6 +1,7 @@
 site_name: Cristiano Ronaldo
 site_description: Сайт о Криштиану Роналду
 site_author: Мацуков Артём
+site_url: https://durilich.github.io/2025_2026-introduction-in-web-tech-u4225-matsukov_a_s/
 
 theme:
   name: material
