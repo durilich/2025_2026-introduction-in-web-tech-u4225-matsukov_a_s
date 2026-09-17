@@ -1,21 +1,6 @@
-# Cristiano Ronaldo — MkDocs сайт
+# Курсовая: сайт о Cristiano Ronaldo
 
-Простой учебный сайт о Криштиану Роналду.
-
-## Запуск
-
-```bash
-pip install -r requirements.txt
-mkdocs serve
-```
-
-Сайт: http://127.0.0.1:8000
-
-## Сборка
-
-```bash
-mkdocs build
-```
+Обновлённая простая версия (MkDocs Material).
 
 ## Страницы
 
@@ -24,4 +9,20 @@ mkdocs build
 - Проекты
 - Контакты
 
-Автор: Мацуков Артём, U4225
+Фото: `docs/images/ronaldo-*.jpg`
+
+## Запуск
+
+```bash
+cd kursovaya
+pip install -r requirements.txt
+mkdocs serve -a 127.0.0.1:8001
+```
+
+Открыть: http://127.0.0.1:8001
+
+## Сборка
+
+```bash
+mkdocs build
+```
