@@ -27,7 +27,8 @@
 - **Lab1** — основы Docker (образы, контейнеры, nginx, volumes). Скриншоты: `lab1/screenshots/`.
 - **Lab2** — CI/CD (GitHub Actions → Docker Hub). Практика: [devops-lab2-matsukov](https://github.com/durilich/devops-lab2-matsukov). Скриншоты: `lab2/screenshots/`.
 - **Lab3** — мониторинг (Prometheus + Grafana + Node Exporter). Скриншоты: `lab3/screenshots/`.
-- **Курсовая** — MkDocs Material сайт о Cristiano Ronaldo: папка `kursovaya/` (`mkdocs serve`).
+- **Курсовая** — MkDocs Material сайт о Cristiano Ronaldo: папка `kursovaya/`.  
+  Онлайн: https://durilich.github.io/2025_2026-introduction-in-web-tech-u4225-matsukov_a_s/
 
 ## Замечания
 
