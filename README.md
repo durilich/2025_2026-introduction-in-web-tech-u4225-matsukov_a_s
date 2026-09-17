@@ -17,6 +17,7 @@
 | `lab1/` | `lab1_report.md`   | выполнен      |
 | `lab2/` | `lab2_report.md`   | выполнен      |
 | `lab3/` | `lab3_report.md`   | выполнен      |
+| `kursovaya/` | MkDocs-сайт CR7 | выполнен      |
 
 ## О курсе
 
@@ -26,6 +27,7 @@
 - **Lab1** — основы Docker (образы, контейнеры, nginx, volumes). Скриншоты: `lab1/screenshots/`.
 - **Lab2** — CI/CD (GitHub Actions → Docker Hub). Практика: [devops-lab2-matsukov](https://github.com/durilich/devops-lab2-matsukov). Скриншоты: `lab2/screenshots/`.
 - **Lab3** — мониторинг (Prometheus + Grafana + Node Exporter). Скриншоты: `lab3/screenshots/`.
+- **Курсовая** — MkDocs Material сайт о Cristiano Ronaldo: папка `kursovaya/` (`mkdocs serve`).
 
 ## Замечания
 

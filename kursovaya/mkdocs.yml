@@ -1,0 +1,30 @@
+site_name: Cristiano Ronaldo
+site_description: Сайт о Криштиану Роналду
+site_author: Мацуков Артём
+
+theme:
+  name: material
+  language: ru
+  logo: images/logo.svg
+  favicon: images/logo.svg
+  palette:
+    primary: red
+    accent: amber
+  features:
+    - navigation.tabs
+    - search.highlight
+
+nav:
+  - Главная: index.md
+  - О нём: about.md
+  - Проекты: projects.md
+  - Контакты: contacts.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
